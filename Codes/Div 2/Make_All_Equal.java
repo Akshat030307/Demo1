@@ -4,6 +4,7 @@ public class Make_All_Equal {
 		Scanner sc = new Scanner(System.in);
 		int t = sc.nextInt();
 		while(t-->0){
+			int a=1
 			int ans = 0;
 			int n = sc.nextInt();
 			int[] arr = new int[n];
